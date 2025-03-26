@@ -12,14 +12,14 @@ Capacitance is recognized as an effective physiological indicator due to its cor
 -  **Sauty Bridge-based circuit** operating at 10V peak and 1 kHz.
 -  **Experimentally validated** under controlled conditions with CNCH13 cocoa variety.
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
-📂 Cocoa-Capacitive-Detection
- ├── 📁 docs/              # Documentation and references
- ├── 📁 hardware/          # Circuit schematics and hardware design
- ├── 📁 firmware/          # Source code for capacitance measurement
- ├── 📁 data/              # Experimental results and analysis
- ├── README.md             # This file 
+ Cocoa-Capacitive-Detection
+ ├──  docs/              # Documentation and references
+ ├──  hardware/          # Circuit schematics and hardware design
+ ├──  firmware/          # Source code for capacitance measurement
+ ├──  data/              # Experimental results and analysis
+ ├── README.md           # This file 
 ```
 
 ##  How to Use
