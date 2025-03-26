@@ -15,10 +15,10 @@ Capacitance is recognized as an effective physiological indicator due to its cor
 ##  Repository Structure
 ```
  Cocoa-Capacitive-Detection
- ├──  docs/              # Documentation and references
- ├──  hardware/          # Circuit schematics and hardware design
- ├──  firmware/          # Source code for capacitance measurement
- ├──  data/              # Experimental results and analysis
+ ├──  docs              # Documentation and references
+ ├──  hardware          # Circuit schematics and hardware design
+ ├──  firmware          # Source code for capacitance measurement
+ ├──  data              # Experimental results and analysis
  ├── README.md           # This file 
 ```
 ---
