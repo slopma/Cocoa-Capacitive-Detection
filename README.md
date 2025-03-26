@@ -21,13 +21,6 @@ Capacitance is recognized as an effective physiological indicator due to its cor
  ├──  data/              # Experimental results and analysis
  ├── README.md           # This file 
 ```
-
-##  How to Use
-1. Connect the sensor to a power source.
-2. Place the capacitive plates in contact with the cocoa fruit.
-3. Record the capacitance values obtained from the measurement system.
-4. Analyze the data to determine the ripening stage or detect potential fungal infections.
-
 ---
 
 For further details, please refer to the **docs/** directory or contact the project contributors.
