@@ -23,7 +23,7 @@ Capacitance is recognized as an effective physiological indicator due to its cor
 ```
 ---
 
-For further details, please refer to the **docs/** directory or contact the project contributors.
+For further details, please refer to the **docs/** directory or contact the project **contributors**.
 
 *   [David Velásquez](https://github.com/dvelaren)
 *   [Joan Alvarado](https://github.com/joanfco30)
